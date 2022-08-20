@@ -1,0 +1,1 @@
+{"container_overrides": {"command": ["--module_name", "qorts", "--run_arguments", "s3://hubseq-data/modules/qorts/job/qorts.test.io4.json", "--working_dir", "/home/"]}, "jobqueue": "batch_scratch_queue", "jobname": "job_qorts_test"}
